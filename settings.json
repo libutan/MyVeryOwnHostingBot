@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "ScrempBOT",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": " Avernus_44-wEpI.aternos.me",
